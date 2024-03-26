@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "private": false,
   "main": "index.ts",
-  "publishConfig": { "access": "public" },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
-    "@apollo/client": "latest",
+    "@apollo/client": "^3.9.9",
     "@k1zang/models": "^1.0.0",
     "graphql": "^16.6.0",
     "react": "^17.0.2"
