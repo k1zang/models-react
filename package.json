@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "main": "index.ts",
+  "publishConfig": { "access": "public" },
   "dependencies": {
     "@apollo/client": "latest",
     "@k1zang/models": "^1.0.0",
