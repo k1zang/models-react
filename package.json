@@ -1,0 +1,18 @@
+{
+  "name": "@k1zang/models-react",
+  "version": "1.0.0",
+  "private": false,
+  "main": "index.ts",
+  "dependencies": {
+    "@apollo/client": "latest",
+    "@k1zang/models": "^1.0.0",
+    "graphql": "^16.6.0",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@graphql-tools/mock": "^9.0.2",
+    "@graphql-tools/schema": "^10.0.3",
+    "typescript": "^5.1.6",
+    "vitest": "^0.34.6"
+  }
+}
