@@ -2,13 +2,14 @@
   "name": "@k1zang/models-react",
   "version": "1.0.2",
   "private": false,
-  "main": "index.ts",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
     "@apollo/client": "^3.9.9",
-    "@k1zang/models": "^1.0.0",
+    "@k1zang/models": "*",
     "graphql": "^16.6.0"
   },
   "devDependencies": {

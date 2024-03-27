@@ -1,0 +1,1 @@
+{"version":3,"file":"GraphqlManager.js","sourceRoot":"","sources":["../src/GraphqlManager.ts"],"names":[],"mappings":";;AAAA,2CAA6D;AAE7D,MAAqB,cAAc;IACjC,MAAM,CAAC,QAAQ,CAAC,GAAW;QACzB,OAAO,IAAI,qBAAY,CAAC;YACtB,GAAG;YACH,KAAK,EAAE,IAAI,sBAAa,EAAE;SAC3B,CAAC,CAAC;IACL,CAAC;CACF;AAPD,iCAOC"}
