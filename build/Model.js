@@ -9,7 +9,6 @@ class Model extends models_1.Model {
     constructor() {
         super(...arguments);
         this.managers = {
-            ...models_1.Model.prototype.managers,
             graphql: GraphqlManager_1.default,
         };
     }
