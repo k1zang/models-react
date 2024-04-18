@@ -1,9 +1,13 @@
 {
   "name": "@k1zang/models-react",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "main": "build/index.js",
   "types": "build/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
   "publishConfig": {
     "access": "public"
   },
